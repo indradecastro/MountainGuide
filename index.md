@@ -2,13 +2,18 @@
 layout: default
 ---
 
-### Elige tu actividad :mountain: <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/mountain.svg" width="15" height="15">, piensa una fecha :date: <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-plus.svg" width="15" height="15"> y cuéntamelo por Whatsapp!
+### Elige tu actividad :mountain:, piensa una fecha :date: y cuéntamelo por Whatsapp!
 
-:ca: Mallorquí, :es: Español, :ba: Euskera, :gb: English, :fr: Français, :gr: Ελληνικά
+Mallorquí<br>
+:es: Español<br>
+Euskera<br>
+:gb: English<br>
+:fr: Français<br>
+:greece: Ελληνικά
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="20" height="20"> [+34 686569323](tel:+34 686569323)<br>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="20" height="20"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)br>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="20" height="20"> [@indradecastroarrazola](https://www.instagram.com/indradecastroarrazola/)br>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="20" height="20"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)<br>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="20" height="20"> [@indradecastroarrazola](https://www.instagram.com/indradecastroarrazola/)<br>
 
 * * *
 
