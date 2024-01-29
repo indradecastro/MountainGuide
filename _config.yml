@@ -4,4 +4,5 @@ description: TDM Escalada, AEGM, FBME, biólogo
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-plugins: - jemoji
+plugins: 
+  - jemoji
