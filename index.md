@@ -34,9 +34,9 @@ layout: default
 
 <dl>
 <dt>Podemos charlar en estos idiomas</dt>
-<dd>Español, Euskera, Inglés, Français, Griego</dd>
-<dt>Titulaciones y asociaciones</dt>
-<dd>1952</dd>
+<dd>Mallorquí, Español, Euskera, English, Français, Ελληνικά</dd>
+<dt>Otros</dt>
+<dd>Titulaciones que avalan mi trabajo e instituciones de las que formo parte. TDM Escalada, AEGM, Federación Balear, biólogo</dd>
 </dl>
 
 
