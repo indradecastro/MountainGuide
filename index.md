@@ -2,11 +2,11 @@
 layout: default
 ---
 
-**Elige tu actividad :climber:, una fecha :date: y cuéntamelo por Whatsapp!**
+**Elige tu actividad ::climber::, una fecha :date: y cuéntamelo por Whatsapp!**
 
-:telephone_receiver: +34 686569323
-[indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)
-@indradecastro
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/square-whatsapp.svg" width="5" height="5"> +34 686569323
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="5" height="5"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="5" height="5"> @indradecastro
 
 ###### Guiado
 
@@ -26,20 +26,15 @@ layout: default
 
 ### Small image
 
-![Octocat](https://github.com/indradecastro/MountainGuide/assets/img/conclientes.square.jpg)
+![Guiando una vía larga](https://github.com/indradecastro/MountainGuide/blob/main/assets/img/conclientes.square.jpg)
 
-### Definition lists can be used with HTML syntax.
+### Una pequeña biografía de tu guía
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla asdf asldkfj asdflk asdflkj asdf lakjsdflkj asdf lkaj sdflkj asdlfkj asdflkj 
-alasdflkj asdflkj asdflkj kboinelknmoincelk clkmaois lknmi lki insadk i lknasid kln idne i lakid lk i</dd>
-<dt>Born</dt>
+<dt>Podemos charlar en estos idiomas</dt>
+<dd>Español, Euskera, Inglés, Français, Griego</dd>
+<dt>Titulaciones y miembro</dt>
 <dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
 </dl>
 
 
