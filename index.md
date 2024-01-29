@@ -8,7 +8,7 @@ layout: default
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="15" height="15"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="15" height="15"> @indradecastro
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="15" height="15"> [@indradecastroarrazola](https://www.instagram.com/indradecastroarrazola/)
 
 ## Guiado
 
