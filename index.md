@@ -2,110 +2,38 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Elige tu actividad :climber:, una fecha :date: y cuéntamelo por Whatsapp!**
 
-[Link to another page](./another-page.html).
+:telephone_receiver: +34 686569323
+[indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)
+@indradecastro
 
-There should be whitespace between paragraphs.
+###### Guiado
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| **Actividad**         | **Precio para empresas** | **Ratios y duración típicas** | **Ampliaciones que se cobran aparte** | **Ejemplos**                                                                                                                                          |
+| Bautismo de escalada  | 150                      | 4 pax, 4h                     | Grupo >4                              | S’Estret, Caimari, Cas Català, Puig de St Martí                                                                                                       |
+| Deportiva selecta     | 150                      | 1 pax, 4h                     | Grupo >1                              | Alaró, Gorg Blau, Sa Catedral, Cala Romántica                                                                                                         |
+| Vía larga equipada    | 180<br>(2pax 230)        | 1 pax, 5h                     | 2ndo cliente                          | Supernova, Ley del Deseo, Sleepy Hollow                                                                                                               |
+| Via larga desequipada | 200<br>(2pax 250)        | 1 pax, variable               | 2ndo cliente                          | Albahida, Esperó des Plà, Pepe Ramón, Rectal                                                                                                          |
+| Cresta                | 200                      | 1 pax, 5h                     | no se amplia                          | Son Nassi, n’Ali, Pa de Figa, Son Torrella, Ses Vinyes…                                                                                               |
+| Senderismo sencillo   | 150                      | 4 pax, 4h                     | más de 15 km, grupo>4                 | Entorno de Lluc, zona Deia-Sóller, Talaia de Alcudia (la Victoria), Comuna de Bunyola, Camí des Correu, Escoltes, Arxiduc, Biniaraix, picos sencillos |
+| Senderismo técnico    | 180                      | 4 pax, 6h                     | más de 15 km, grupo>4                 | Torrent de Pareis, picos técnicos (Galatzó, Massanella, Tomir…)                                                                                       |
+| Trail running         | 180                      | 1 pax, 2h                     | más de 15 km, grupo>1                 | Recorridos a convenir                                                                                                                                 |
 
 ### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+![Octocat](https://github.com/indradecastro/MountainGuide/assets/img/conclientes.square.jpg)
 
 ### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Godzilla asdf asldkfj asdflk asdflkj asdf lakjsdflkj asdf lkaj sdflkj asdlfkj asdflkj 
+alasdflkj asdflkj asdflkj kboinelknmoincelk clkmaois lknmi lki insadk i lknasid kln idne i lakid lk i</dd>
 <dt>Born</dt>
 <dd>1952</dd>
 <dt>Birthplace</dt>
@@ -114,10 +42,4 @@ end
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
