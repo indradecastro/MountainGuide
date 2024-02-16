@@ -12,6 +12,3 @@ Los grandes itinerarios en roca son la actividad más exclusiva que se puede hac
 Ofrecemos desde trepadas por crestas hasta escaladas verticales ascendiendo a cumbres que a menudo son solo accesibles escalando.
 
 Sin duda, ¡un lujo al alcance de unos pocos!
-
-
-

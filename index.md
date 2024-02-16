@@ -6,9 +6,8 @@ Caminante y escalador más de kms horizontales y metros verticales que de grande
 
 Sean locales o turistas, deportistas de élite o paseantes ocasionales, videntes, invidentes en incluso con movilidad reducida! Me encanta acompañar a gente al campo y contagiarles mi pasión por las plantas, los animalillos y las rocas.
 
-🗣️ Podemos concretar los detalles de un servicio en U+1F3F4 U+E0065 U+E0073 U+E0063 U+E0074 U+E007F Mallorquí, 🇪🇸 Español
-🗣️ Puedo guiar actividades en 🇪🇸 Español, 🇬🇧 English
-🗣️ Puedo charlar con los clientes en 🇫🇷 Français, 🇬🇷 Ελληνικά, Euskera
+💬 Guiajes en 🇪🇸 Español, 🇬🇧 English, Mallorquí <br>
+💬 Conversaciones en 🇫🇷 Français, 🇬🇷 Ελληνικά, Euskera
 
 ### Elige tu actividad :mountain: <br> piensa una fecha :date: <br> y cuéntamelo por Whatsapp!
 
