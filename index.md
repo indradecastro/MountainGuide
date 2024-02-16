@@ -20,25 +20,23 @@ Sean locales o turistas, deportistas de élite o paseantes ocasionales, videntes
 ## Guiado
 Pincha una actividad para leer más sobre ella
 
-| **Actividad**                                  | **Ratios y duración típicas** | **Extras que se cobran aparte** |
-| ---------------------------------------------- | ----------------------------- | ------------------------------- |
-| Bautismo de escalada                           | 4 pax, 4h                     | Grupo >4                        |
-| Deportiva selecta                              | 1 pax, 4h                     | Grupo >1                        |
-| [Vía larga equipada](./via-larga-equipada.md)  | 1 pax, 5h                     | 2ndo cliente                    |
-| Via larga desequipada                          | 1 pax, variable               | 2ndo cliente                    |
-| Cresta                                         | 1 pax, 5h                     | no se amplia                    |
-| Senderismo sencillo                            | 4 pax, 4h                     | más de 15 km, grupo>4           |
-| Senderismo técnico                             | 4 pax, 6h                     | más de 15 km, grupo>4           |
-| Trail running                                  | 1 pax, 2h                     | más de 15 km, grupo>1           |
-
-
+| **Actividad**                                       | **Ratios y duración típicas** | **Extras que se cobran aparte** |
+| --------------------------------------------------- | ----------------------------- | ------------------------------- |
+| [Bautismo de escalada](./bautismo-de-escalada.md)   | 4 pax, 4h                     | Grupo >4                        |
+| [Deportiva selecta](./deportiva-selecta.md)         | 1 pax, 4h                     | Grupo >1                        |
+| [Vía larga equipada](./vía-larga-equipada.md)       | 1 pax, 5h                     | 2ndo cliente                    |
+| [Via larga desequipada](./via-larga-desequipada.md) | 1 pax, variable               | 2ndo cliente                    |
+| [Cresta](./cresta.md)                               | 1 pax, 5h                     | no se amplia                    |
+| [Senderismo sencillo](./senderismo-sencillo.md)     | 4 pax, 4h                     | más de 15 km, grupo>4           |
+| [Senderismo técnico](./senderismo-técnico.md)       | 4 pax, 6h                     | más de 15 km, grupo>4           |
+| [Trail running](./trail-running.md)                 | 1 pax, 2h                     | más de 15 km, grupo>1           |
 
 ## Formación
 
-| **Actividad**            | **Tarifa** | **Ratios y duración típicas** | **Extras que se cobran aparte** |
-| ------------------------ | ------------------------ | ----------------------------- | ------------------------------------- |
-| Iniciación a la escalada | 130 €                    | 2-4 pax, 1 día                | Grupo >4                              |
-| Via larga equipada       | 400 €                    | 2-4 pax, 2 días               | Grupo >4                              |
-| Vía larga clásica        | 500 €                    | 2-4 pax, 2 días               | Grupo >4                              |
-| Autorescate              | 400 €                    | 2-4 pax, 2 días               | Grupo >4                              |
+| **Actividad**            | **Ratios y duración típicas** | **Ampliaciones que se cobran aparte** |
+| ------------------------ | ----------------------------- | ------------------------------------- |
+| Iniciación a la escalada | 2-4 pax, 1 día                | Grupo >4                              |
+| Via larga equipada       | 2-4 pax, 2 días               | Grupo >4                              |
+| Escalada clásica         | 2-4 pax, 2 días               | Grupo >4                              |
+| Autorescate              | 2-4 pax, 2 días               | Grupo >4                              |
 
