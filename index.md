@@ -18,6 +18,7 @@ Sean locales o turistas, deportistas de élite o paseantes ocasionales, videntes
 * * *
 
 ## Guiado
+Pincha una actividad para leer más sobre ella
 
 | **Actividad**                                  | **Ratios y duración típicas** | **Extras que se cobran aparte** |
 | ---------------------------------------------- | ----------------------------- | ------------------------------- |
