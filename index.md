@@ -6,13 +6,13 @@ Caminante y escalador más de kms y metros que de grandes dificultades. Encantad
 
 Sean locales o turistas, deportistas de élite o paseantes ocasionales, videntes, invidentes en incluso con movilidad reducida! Me encanta acompañar a gente al campo y contagiarles mi pasión por las plantas, los animalillos y las rocas.
 
-Podemos concretar los detalles de un servicio en Mallorquí, :es: Español
+🗣️ Podemos concretar los detalles de un servicio en Mallorquí, :es: Español
+
 Puedo guiar cualquier actividad en :es: Español, :gb: English
+
 Puedo charlar con los clientes en :fr: Français, :greece: Ελληνικά, Euskera
 
-### Elige tu actividad :mountain:,
-### piensa una fecha :date:
-### y cuéntamelo por Whatsapp!
+### Elige tu actividad :mountain: <br> piensa una fecha :date: <br> y cuéntamelo por Whatsapp!
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="20" height="20"> [+34 686569323](tel:+34 686569323)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="20" height="20"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)<br>
