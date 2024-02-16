@@ -13,5 +13,5 @@ Ofrecemos desde trepadas por crestas hasta escaladas verticales ascendiendo a cu
 
 Sin duda, ¡un lujo al alcance de unos pocos!
 
-* * *
-[🔙back](./)
+
+

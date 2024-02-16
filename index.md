@@ -2,15 +2,13 @@
 layout: default
 ---
 
-Caminante y escalador más de kms y metros que de grandes dificultades. Encantado con sacar gente a la naturaleza.
+Caminante y escalador más de kms horizontales y metros verticales que de grandes dificultades. Encantado con sacar gente a la naturaleza.
 
 Sean locales o turistas, deportistas de élite o paseantes ocasionales, videntes, invidentes en incluso con movilidad reducida! Me encanta acompañar a gente al campo y contagiarles mi pasión por las plantas, los animalillos y las rocas.
 
-🗣️ Podemos concretar los detalles de un servicio en Mallorquí, :es: Español
-
-Puedo guiar cualquier actividad en :es: Español, :gb: English
-
-Puedo charlar con los clientes en :fr: Français, :greece: Ελληνικά, Euskera
+🗣️ Podemos concretar los detalles de un servicio en U+1F3F4 U+E0065 U+E0073 U+E0063 U+E0074 U+E007F Mallorquí, 🇪🇸 Español
+🗣️ Puedo guiar actividades en 🇪🇸 Español, 🇬🇧 English
+🗣️ Puedo charlar con los clientes en 🇫🇷 Français, 🇬🇷 Ελληνικά, Euskera
 
 ### Elige tu actividad :mountain: <br> piensa una fecha :date: <br> y cuéntamelo por Whatsapp!
 
@@ -33,7 +31,7 @@ Puedo charlar con los clientes en :fr: Français, :greece: Ελληνικά, Eus
 | Senderismo técnico                             | 4 pax, 6h                     | más de 15 km, grupo>4           |
 | Trail running                                  | 1 pax, 2h                     | más de 15 km, grupo>1           |
 
-* * * 
+
 
 ## Formación
 
