@@ -25,11 +25,11 @@ Pincha una actividad para leer más sobre ella
 | [Bautismo de escalada](./bautismo-de-escalada.md)   | 4 pax, 4h                     | Grupo >4                        |
 | [Deportiva selecta](./deportiva-selecta.md)         | 1 pax, 4h                     | Grupo >1                        |
 | [Vía larga equipada](./vía-larga-equipada.md)       | 1 pax, 5h                     | 2ndo cliente                    |
-| [Via larga desequipada](./via-larga-desequipada.md) | 1 pax, variable               | 2ndo cliente                    |
-| [Cresta](./cresta.md)                               | 1 pax, 5h                     | no se amplia                    |
-| [Senderismo sencillo](./senderismo-sencillo.md)     | 4 pax, 4h                     | más de 15 km, grupo>4           |
-| [Senderismo técnico](./senderismo-técnico.md)       | 4 pax, 6h                     | más de 15 km, grupo>4           |
-| [Trail running](./trail-running.md)                 | 1 pax, 2h                     | más de 15 km, grupo>1           |
+| [💎Vía larga desequipada](./vía-larga-desequipada.md) | 1 pax, variable               | 2ndo cliente                    |
+| [⛰️Cresta](./cresta.md)                               | 1 pax, 5h                     | no se amplia                    |
+| [👟Senderismo sencillo](./senderismo-sencillo.md)     | 4 pax, 4h                     | más de 15 km, grupo>4           |
+| [🥾Senderismo técnico](./senderismo-técnico.md)       | 4 pax, 6h                     | más de 15 km, grupo>4           |
+| [🏃🏽‍♂️Trail running](./trail-running.md)                 | 1 pax, 2h                     | más de 15 km, grupo>1           |
 
 ## Formación
 
