@@ -19,16 +19,16 @@ Euskera<br>
 
 ## Guiado
 
-| **Actividad**         | **Tarifa** | **Ratios y duración típicas** | **Extras que se cobran aparte** |
-| --------------------- | ------------------------ | ----------------------------- | ------------------------------------- |
-| Bautismo de escalada  | 150 €                    | 4 pax, 4h                     | Grupo >4                              |
-| Deportiva selecta     | 150 €                    | 1 pax, 4h                     | Grupo >1                              |
-| [Vía larga equipada](./via-larga-equipada.md)    | 180<br>(2pax 230)        | 1 pax, 5h                     | 2ndo cliente                          |
-| Via larga desequipada | 200 €<br>(2pax 250€)     | 1 pax, variable               | 2ndo cliente                          |
-| Cresta                | 200 €                    | 1 pax, 5h                     | no se amplia                          |
-| Senderismo sencillo   | 150 €                    | 4 pax, 4h                     | más de 15 km, grupo>4                 |
-| Senderismo técnico    | 180 €                    | 4 pax, 6h                     | más de 15 km, grupo>4                 |
-| Trail running         | 180 €                    | 1 pax, 2h                     | más de 15 km, grupo>1                 |
+| **Actividad**                                  | **Ratios y duración típicas** | **Extras que se cobran aparte** |
+| ---------------------------------------------- | ----------------------------- | ------------------------------- |
+| Bautismo de escalada                           | 4 pax, 4h                     | Grupo >4                        |
+| Deportiva selecta                              | 1 pax, 4h                     | Grupo >1                        |
+| [Vía larga equipada])(./via-larga-equipada.md) | 1 pax, 5h                     | 2ndo cliente                    |
+| Via larga desequipada                          | 1 pax, variable               | 2ndo cliente                    |
+| Cresta                                         | 1 pax, 5h                     | no se amplia                    |
+| Senderismo sencillo                            | 4 pax, 4h                     | más de 15 km, grupo>4           |
+| Senderismo técnico                             | 4 pax, 6h                     | más de 15 km, grupo>4           |
+| Trail running                                  | 1 pax, 2h                     | más de 15 km, grupo>1           |
 
 * * * 
 ## Formación
