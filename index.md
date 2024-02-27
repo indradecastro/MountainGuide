@@ -22,7 +22,7 @@ Pincha una actividad para leer más sobre ella
 
 | **Actividad**                                         | **Ratios y duración típicas** | **Extras que se cobran aparte** |
 | ----------------------------------------------------- | ----------------------------- | ------------------------------- |
-| [🥇Bautismo de escalada](./bautismo-de-escalada.md)   | 4 pax, 4h                     | Grupo >4                        |
+| [🥇Bautismo de escalada](./bautismo.md)   | 4 pax, 4h                     | Grupo >4                        |
 | [🧗🏻‍♀️Deportiva selecta](./deportiva-selecta.md)         | 1 pax, 4h                     | Grupo >1                        |
 | [🔩Vía larga equipada](./vía-larga-equipada.md)       | 1 pax, 5h                     | 2ndo cliente                    |
 | [💎Vía clásica](./vía-clásica.md)                     | 1 pax, variable               | 2ndo cliente                    |

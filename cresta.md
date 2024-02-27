@@ -10,6 +10,7 @@ layout: actividad
 Te ofrezco desde crestas sencillas en las que solo encontrarás algunas trepadas hasta itinerarios más verticales y con mucha sensación de vacío!
 
 Las crestas son la actividad más exclusiva que se puede hacer en montaña: 1 cliente y 1 guía unidos por la cuerda.
+
 Sin duda, ¡un lujo al alcance de unos pocos!
 
 * * *
