@@ -14,5 +14,3 @@ Te invito a escalar una pared de roca en la que apenas encontraremos unos pocos 
 * * *
 Ejemplos:<br>
 Albahida, Esperó des Plà, Agulla des Frare, Pepe Ramón, Rectal
-
-Vías Albahida en Sa Gubia, Esperó des Plà en la zona de Cúber, Agulla des Frare bajo la mirada del Puig Major, Pepe Ramón en el Castell d'Alaró, Rectal en los abismos de s'Entreforc
