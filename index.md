@@ -20,12 +20,12 @@ Sean locales o turistas, deportistas de élite o paseantes ocasionales, videntes
 ## Guiado
 Pincha una actividad para leer más sobre ella
 
-| **Actividad**                                       | **Ratios y duración típicas** | **Extras que se cobran aparte** |
-| --------------------------------------------------- | ----------------------------- | ------------------------------- |
-| [Bautismo de escalada](./bautismo-de-escalada.md)   | 4 pax, 4h                     | Grupo >4                        |
-| [Deportiva selecta](./deportiva-selecta.md)         | 1 pax, 4h                     | Grupo >1                        |
-| [Vía larga equipada](./vía-larga-equipada.md)       | 1 pax, 5h                     | 2ndo cliente                    |
-| [💎Vía larga desequipada](./vía-larga-desequipada.md) | 1 pax, variable               | 2ndo cliente                    |
+| **Actividad**                                         | **Ratios y duración típicas** | **Extras que se cobran aparte** |
+| ----------------------------------------------------- | ----------------------------- | ------------------------------- |
+| [🥇Bautismo de escalada](./bautismo-de-escalada.md)   | 4 pax, 4h                     | Grupo >4                        |
+| [🧗🏻‍♀️Deportiva selecta](./deportiva-selecta.md)         | 1 pax, 4h                     | Grupo >1                        |
+| [🔩Vía larga equipada](./vía-larga-equipada.md)       | 1 pax, 5h                     | 2ndo cliente                    |
+| [💎Vía clásica](./vía-clásica.md)                     | 1 pax, variable               | 2ndo cliente                    |
 | [⛰️Cresta](./cresta.md)                               | 1 pax, 5h                     | no se amplia                    |
 | [👟Senderismo sencillo](./senderismo-sencillo.md)     | 4 pax, 4h                     | más de 15 km, grupo>4           |
 | [🥾Senderismo técnico](./senderismo-técnico.md)       | 4 pax, 6h                     | más de 15 km, grupo>4           |
