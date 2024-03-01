@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Elige tu actividad :mountain: <br> piensa una fecha :date: <br> y cuéntamelo por [Whatsapp](https://wa.me/+34686569323)!
+### Elige tu actividad :mountain: <br> piensa una fecha :date: <br> y cuéntamelo por [Whatsapp](https://wa.me/+34686569323?text=Hola,%20estoy%20interesado%20en%20hacer%20una%20actividad%20de%montaña%20contigo)!
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="20" height="20"> [+34 686569323](tel:+34 686569323)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="20" height="20"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)<br>
@@ -13,6 +13,8 @@ Con más de 20 años de experiencia en montaña y 15 de escalada, cada día disf
 📜 Titulado como Guía de Escalada <br>
 🪪 Miembro de la AEGM y FBME <br>
 🦋 Biólogo apasionado <br>
+<br>
+<br>
 💬 Actividades en 🇪🇸 Castellano, 🇬🇧 English, Mallorquí <br>
 💬 Conversaciones en 🇫🇷 Français, 🇬🇷 Ελληνικά, Euskera
 
