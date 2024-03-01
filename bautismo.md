@@ -15,5 +15,10 @@ Trae el material básico (gatos y arnés) y yo te llevo a dar tus primeros pasos
 
 * * *
 
+### Descripción de un día típico para esta actividad:<br>
+Os motiváis 2-4 amigos o familiares, me escribís por WhatsApp y acordamos un día y si preferís horario de mañana o de tarde (duración aproximada 3-4h).
+
+Hablaremos del material personal necesario que necesitáis traer para la actividad y os enviaré la ubicación de un parking donde quedaremos.
+
 ### Ejemplos:<br>
 s'Estret, Can Fil, Caimari, Puig de San Martí, Cas Català
