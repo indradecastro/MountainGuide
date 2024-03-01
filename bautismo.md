@@ -2,7 +2,7 @@
 layout: actividad
 ---
 
-![Para ella, una experiencia inolvidable](./assets/img/bautismo.jpg)
+[Para ella, una experiencia inolvidable](./assets/img/bautismo.jpg)
 
 ## Bautismo de escalada
 
