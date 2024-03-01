@@ -18,16 +18,12 @@ Con más de 20 años de experiencia en montaña y 15 de escalada, cada día disf
 
 * * *
 
-## Actividades guiadas
-Pincha una actividad para leer más sobre ella
-
-| **Escalada**                                         | **Ratios y duración típicas** | **Extras** |
-| ----------------------------------------------------- | ----------------------------- | ------------------------------- |
-| [🥇Bautismo de escalada](./bautismo.md)               | 4 pers, 4h                     | Grupo >4                        |
-| [🧗🏻‍♀️Deportiva selecta](./deportiva-selecta.md)         | 1 pers, 4h                     | Grupo >1                        |
-| [🔩Vía larga equipada](./vía-larga-equipada.md)       | 1 pers, 5h                     | 2ndo cliente                    |
-| [💎Vía clásica](./vía-clásica.md)                     | 1 pers, variable               | 2ndo cliente                    |
-| [⛰️Cresta](./cresta.md)                               | 1 pers, 5h                     | no se amplia                    |
+## Escalada
+*    [🥇Bautismo de escalada](./bautismo.md)
+*    [🧗🏻‍♀️Deportiva selecta](./deportiva-selecta.md)
+*    [🔩Vía larga equipada](./vía-larga-equipada.md)
+*    [💎Vía clásica](./vía-clásica.md)
+*    [⛰️Cresta](./cresta.md)
 
 * * *
 
