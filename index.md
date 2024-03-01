@@ -10,6 +10,9 @@ layout: default
 
 Con más de 20 años de experiencia en montaña y 15 de escalada cada día disfruto más de acompañar a otros a descubrirlas.
 
+📜 Titulado como Guía de Escalada <br>
+🔝⚜️ Miembro de la AEGM y FBME <br>
+🦋 Biólogo apasionado <br>
 💬 Guiajes en 🇪🇸 Español, 🇬🇧 English, Mallorquí <br>
 💬 Conversaciones en 🇫🇷 Français, 🇬🇷 Ελληνικά, Euskera
 
