@@ -7,7 +7,7 @@ Con más de 20 años de experiencia en montaña y 15 de escalada cada día disfr
 💬 Guiajes en 🇪🇸 Español, 🇬🇧 English, Mallorquí <br>
 💬 Conversaciones en 🇫🇷 Français, 🇬🇷 Ελληνικά, Euskera
 
-### Elige tu actividad :mountain: <br> piensa una fecha :date: <br> y cuéntamelo por [Whatsapp](tel:+34 686569323)!
+### Elige tu actividad :mountain: <br> piensa una fecha :date: <br> y cuéntamelo por [Whatsapp](https://wa.me/0034686569323)!
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="20" height="20"> [+34 686569323](tel:+34 686569323)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="20" height="20"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)<br>
