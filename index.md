@@ -1,15 +1,12 @@
----
 layout: default
 ---
 
-Caminante y escalador más de kms horizontales y metros verticales que de grandes dificultades. Encantado con sacar gente a la naturaleza.
-
-Sean locales o turistas, deportistas de élite o paseantes ocasionales, videntes, invidentes en incluso con movilidad reducida! Me encanta acompañar a gente al campo y contagiarles mi pasión por las plantas, los animalillos y las rocas.
+Con más de 20 años de experiencia en montaña y 15 de escalada cada día disfruto más de acompañar a otros a descubrirlas.
 
 💬 Guiajes en 🇪🇸 Español, 🇬🇧 English, Mallorquí <br>
 💬 Conversaciones en 🇫🇷 Français, 🇬🇷 Ελληνικά, Euskera
 
-### Elige tu actividad :mountain: <br> piensa una fecha :date: <br> y cuéntamelo por Whatsapp!
+### Elige tu actividad :mountain: <br> piensa una fecha :date: <br> y cuéntamelo por [Whatsapp](tel:+34 686569323)!
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="20" height="20"> [+34 686569323](tel:+34 686569323)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="20" height="20"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)<br>
@@ -33,19 +30,14 @@ Pincha una actividad para leer más sobre ella
 
 ## Formación
 
-| **Actividad**            | **Ratios y duración típicas** | **Ampliaciones que se cobran aparte** |
-| ------------------------ | ----------------------------- | ------------------------------------- |
-| Iniciación a la escalada | 2-4 pax, 1 día                | Grupo >4                              |
-| Via larga equipada       | 2-4 pax, 2 días               | Grupo >4                              |
-| Escalada clásica         | 2-4 pax, 2 días               | Grupo >4                              |
-| Autorescate              | 2-4 pax, 2 días               | Grupo >4                              |
+| **Actividad**            | **Ratios y duración típicas** | **Extras que se cobran aparte** |
+| ------------------------ | ----------------------------- | ------------------------------- |
+| Iniciación a la escalada | 2-4 pax, 1 día                | Grupo >4                        |
+| Via larga equipada       | 2-4 pax, 2 días               | Grupo >4                        |
+| Escalada clásica         | 2-4 pax, 2 días               | Grupo >4                        |
+| Autorescate              | 2-4 pax, 2 días               | Grupo >4                        |
 
 ## Importante:
-*	No dispongo de material para clientes. Pero dime si te falta algo, veremos cómo solucionarlo.
-*	Todos los tiempos y distancias se consideran de coche a coche.
-* 	Las actividades técnicamente más difíciles o más largas que las incluidas como ejemplos conllevan un incremento de precio.
-
-
-
-
-
+*	Si te falta algo de material personal para alguna actividad, cuéntamelo y buscamos una solución! 👍🏼
+* 	Si te apetece un reto más exigente técnica o físicamente, cuéntamelo también!
+*	Todos los tiempos y distancias se consideran de coche a coche 🚗⛰🚗
