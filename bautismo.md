@@ -14,5 +14,6 @@ Trae el material básico (gatos y arnés) y yo te llevo a dar tus primeros pasos
 ¿Preparado para tu primera vez?
 
 * * *
-Ejemplos:<br>
+
+### Ejemplos:<br>
 s'Estret, Can Fil, Caimari, Puig de San Martí, Cas Català
