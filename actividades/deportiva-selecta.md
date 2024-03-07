@@ -12,5 +12,15 @@ Para aquellos escaladores que buscan un guía local que les lleve a los mejores 
 Prepara tus gatos preferidos, nos vamos al sector!
 
 * * *
-Ejemplos:<br>
+
+### Detalles de la actividad:<br>
+👥 Tamaño del grupo: 1 persona (ampliable a 2 personas)
+
+⏳ Duración aproximada: 3-4h, una mañana o una tarde
+
+*	📅 Acordaremos la fecha que mejor te viene
+*	🎒 Te informaré del material necesario
+*	🅿️ Enviaré la ubicación del parking donde nos encontraremos
+
+### Ejemplos:<br>
 Alarò, Caimari, Sa Gubia, es Capdellà, Port de Sòller, innumerables escuelas!

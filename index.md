@@ -20,18 +20,18 @@ Con más de 20 años de experiencia en senderismo y 15 en escalada, cada día di
 * * *
 
 ## Escalada
-*    [🥇Bautismo de escalada](./bautismo.md)
-*    [🧗🏻‍♀️Escalada selecta](./deportiva-selecta.md)
-*    [🔩Vía larga equipada](./vía-larga-equipada.md)
-*    [💎Vía clásica](./vía-clásica.md)
-*    [⛰️Cresta](./cresta.md)
+*    [🥇 Bautismo de escalada](./actividades/bautismo.md)
+*    [🧗🏻‍♀️ Escalada selecta](./actividades/deportiva-selecta.md)
+*    [🔩 Vía larga equipada](./actividades/vía-larga-equipada.md)
+*    [💎 Vía clásica](./actividades/vía-clásica.md)
+*    [⛰️ Cresta](./actividades/cresta.md)
 
 * * *
 
 ## Senderismo
-*    [👟Senderismo sencillo](./senderismo-sencillo.md)
-*    [🥾Senderismo técnico](./senderismo-técnico.md)
-*    [🏃🏽‍♂️Trail running](./trail.md)
+*    [👟 Senderismo sencillo](./actividades/senderismo-sencillo.md)
+*    [🥾 Senderismo técnico](./actividades/senderismo-técnico.md)
+*    [🏃🏽‍♂️ Trail running](./actividades/trail.md)
 
 * * *
 

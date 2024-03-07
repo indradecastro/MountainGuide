@@ -15,5 +15,15 @@ Las crestas son la actividad más exclusiva que se puede hacer en montaña: 1 cl
 Sin duda, ¡un lujo al alcance de unos pocos!
 
 * * *
-Ejemplos:<br>
+
+### Detalles de la actividad:<br>
+👥 Tamaño del grupo: Exclusivamente para una persona!
+
+⏳ Duración aproximada: 5-7h, bastante variable
+
+*	📅 Acordaremos la fecha que mejor te viene
+*	🎒 Te informaré del material necesario
+*	🅿️ Enviaré la ubicación del parking donde nos encontraremos
+
+### Ejemplos:<br>
 La Crestina, Aresta Llarga, Aresta de n'Ali, Son Torrella

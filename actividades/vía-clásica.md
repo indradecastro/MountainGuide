@@ -13,5 +13,15 @@ Te invito a escalar una pared de roca en la que apenas encontraremos unos pocos 
 ¿Me acompañas?
 
 * * *
-Ejemplos:<br>
+
+### Detalles de la actividad:<br>
+👥 Tamaño del grupo: 1 persona (ampliable a 2 personas)
+
+⏳ Duración aproximada: 5-7h, bastante variable
+
+*	📅 Acordaremos la fecha que mejor te viene
+*	🎒 Te informaré del material necesario
+*	🅿️ Enviaré la ubicación del parking donde nos encontraremos
+
+### Ejemplos:<br>
 Albahida, Esperó des Plà, Agulla des Frare, Pepe Ramón, Rectal

@@ -12,5 +12,15 @@ Salir a correr por montaña no es una locura, se pueden adaptar los recorridos, 
 ...de ponerte las zapatillas! 🏃🏻
 
 * * *
-Ejemplos:<br>
+
+### Detalles de la actividad:<br>
+👥 Tamaño del grupo: 1 persona (ampliable a 2 personas)
+
+⏳ Duración aproximada: 1-2h (ampliable)
+
+*	📅 Acordaremos la fecha que mejor te viene
+*	🎒 Te informaré del material necesario
+*	🅿️ Enviaré la ubicación del parking donde nos encontraremos
+
+### Ejemplos:<br>
 Comuna de Bunyola, de Esporles, Cases de Galatzó, zona de Cúber...

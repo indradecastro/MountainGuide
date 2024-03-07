@@ -14,5 +14,15 @@ Escalar una vía larga es todo una experiencia. Sentir cómo vas alejándote del
 Imagínate las fotos que salen desde allí arriba!
 
 * * *
-Ejemplos:<br>
+
+### Detalles de la actividad:<br>
+👥 Tamaño del grupo: 1 persona (ampliable a 2 personas)
+
+⏳ Duración aproximada: 5h, una mañana o una tarde
+
+*	📅 Acordaremos la fecha que mejor te viene
+*	🎒 Te informaré del material necesario
+*	🅿️ Enviaré la ubicación del parking donde nos encontraremos
+
+### Ejemplos:<br>
 Quan es fa Fosc, Supernova, Ley del Deseo, Sleepy Hollow
