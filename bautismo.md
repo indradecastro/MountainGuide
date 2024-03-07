@@ -18,6 +18,7 @@ Trae el material básico (gatos y arnés) y yo te llevo a dar tus primeros pasos
 
 ### Detalles de la actividad:<br>
 👥 Tamaño del grupo: 2-4 amigos o familiares, ¿porqué no? 😉
+
 ⏳ Duración aproximada: 3-4h, una mañana o una tarde
 
 *	📅 Acordaremos la fecha que mejor nos viene
