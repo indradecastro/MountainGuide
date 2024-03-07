@@ -3,6 +3,7 @@ layout: actividad
 ---
 
 ![Vistas espectaculares en las crestas](./assets/img/cresta.jpg)
+*Vistas espectaculares en las crestas*
 
 ## Cresta
 

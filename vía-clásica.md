@@ -2,7 +2,8 @@
 layout: actividad
 ---
 
-![Guiando una vía larga](./assets/img/conclientes.square.jpg)
+![Las fisuras son emplazamientos perfectos](./assets/img/vía-larga-clásica.jpg)
+*Las fisuras son emplazamientos perfectos*
 
 ## Vía larga clásica
 Los montañeros somos grandes amantes de la naturaleza e intentamos disfrutar de ella sin perturbar su equilibrio, dejando el mínimo rastro posible.

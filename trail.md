@@ -2,7 +2,8 @@
 layout: actividad
 ---
 
-![De paseo por...](./assets/img/selecta.jpg)
+![Un entrenamiento disfrutón!](./assets/img/trail.jpg)
+*Un entrenamiento disfrutón!*
 
 ## Trail running
 

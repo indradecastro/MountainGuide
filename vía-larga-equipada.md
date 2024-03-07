@@ -2,9 +2,10 @@
 layout: actividad
 ---
 
-![Guiando una vía larga](./assets/img/conclientes.square.jpg)
+![Guiando una vía larga](./assets/img/vía-larga-equipada.jpg)
+*Disfrutando de metros y metros 🧗🏻‍♀️*
 
-## Vía larga
+## Vía larga equipada
 
 Eres un escalador habitual de deportiva y sueñas con continuar escalando hacia arriba 30m, 40, 50... 100m? 150m? Entonces compartimos pasión!
 
