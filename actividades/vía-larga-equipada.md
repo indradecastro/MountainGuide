@@ -2,7 +2,7 @@
 layout: actividad
 ---
 
-![Guiando una vía larga](./assets/img/vía-larga-equipada.jpg)
+![Guiando una vía larga](./../assets/img/vía-larga-equipada.jpg)
 *Llegando a la cumbre tras metros y metros 🧗🏻‍♀️*
 
 ## Vía larga equipada

@@ -2,7 +2,7 @@
 layout: actividad
 ---
 
-![De paseo por Sòller](./assets/img/senderismo-sencillo.jpg)
+![De paseo por Sòller](./../assets/img/senderismo-sencillo.jpg)
 *De paseo por Sòller*
 
 ## Senderismo sencillo

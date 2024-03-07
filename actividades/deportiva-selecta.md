@@ -2,7 +2,7 @@
 layout: actividad
 ---
 
-![Disfrutando de deportiva 5 estrellas ✨](./assets/img/deportiva-selecta.jpg)
+![Disfrutando de deportiva 5 estrellas ✨](./../assets/img/deportiva-selecta.jpg)
 *Disfrutando de deportiva 5 estrellas ✨*
 
 ## Escalada selecta

@@ -2,7 +2,7 @@
 layout: actividad
 ---
 
-![Terreno técnico al Massanella](./assets/img/senderismo-técnico.jpg)
+![Terreno técnico al Massanella](./../assets/img/senderismo-técnico.jpg)
 *Terreno técnico al Massanella*
 
 ## Senderismo técnico

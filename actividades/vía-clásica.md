@@ -2,7 +2,7 @@
 layout: actividad
 ---
 
-![Las fisuras son emplazamientos perfectos](./assets/img/vía-larga-clásica.jpg)
+![Las fisuras son emplazamientos perfectos](./../assets/img/vía-larga-clásica.jpg)
 *Las fisuras son emplazamientos perfectos*
 
 ## Vía larga clásica
