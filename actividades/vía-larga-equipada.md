@@ -3,11 +3,11 @@ layout: actividad
 ---
 
 ![Guiando una vía larga](./../assets/img/vía-larga-equipada.jpg)
-*Cumbre tras metros y metros 🧗🏻‍♀️*
+*Tras metros y metros 🧗🏻‍♀️ ¡cumbre!*
 
 ## Vía larga equipada
 
-Eres un escalador habitual de deportiva y sueñas con continuar escalando hacia arriba 30m, 40, 50... ¿100m? ¿150m? ¡Entonces compartimos pasión!
+Escalas deportiva habitualmente y sueñas con continuar escalando hacia arriba 30m, 40, 50... ¿100m? ¿150m? ¡Entonces compartimos pasión!
 
 Escalar una vía larga es todo una experiencia. Sentir cómo vas alejándote del suelo, reunirte con tu guía tras cada largo, seguir escalando y llegar a lo más alto para luego rapelar hasta el suelo por nuestros propios medios.
 

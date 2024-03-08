@@ -10,7 +10,7 @@ layout: actividad
 ¡La aventura con mayúsculas!
 Te ofrezco desde crestas sencillas con algunas trepadas hasta itinerarios más verticales y ¡mucha sensación de vacío!
 
-Las crestas son la actividad más exclusiva que se puede hacer en montaña: 1 cliente y 1 guía unidos por la cuerda.
+Las crestas son la actividad más exclusiva que se puede hacer en montaña: 1 cliente y 1 guía unid@s por la cuerda.
 
 Sin duda, ¡una actividad única!
 

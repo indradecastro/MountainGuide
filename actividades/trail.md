@@ -7,7 +7,7 @@ layout: actividad
 
 ## Trail running
 
-Salir a correr por montaña no es una locura, se pueden adaptar los recorridos, distancias y desniveles. Quizá lleves años caminando por Tramuntana y viendo corredores disfrutar trotando por los senderos y te ha llegado el momento...
+Salir a correr por montaña no es una locura, se pueden adaptar los recorridos, distancias y desniveles. Quizá lleves años caminando por Tramuntana y viendo corredor@s disfrutar trotando por los senderos y te ha llegado el momento...
 
 ...de ¡ponerte las zapatillas! 🏃🏻
 
