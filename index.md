@@ -36,7 +36,7 @@ Con más de 20 años de experiencia en senderismo y 15 en escalada, cada día di
 * * *
 
 ## Formación
-Me adapto a tus necesidades, escríbeme por WhatsApp y diseñamos juntos tu curso ideal!
+Me adapto a tus necesidades, escríbeme por WhatsApp y diseñamos junt@s tu curso ideal!
 *    Iniciación a la escalada
 *    Via larga equipada
 *    Escalada clásica
