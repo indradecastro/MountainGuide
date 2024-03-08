@@ -3,21 +3,21 @@ layout: actividad
 ---
 
 ![Para ella, una experiencia inolvidable!](./../assets/img/bautismo.jpg)
-*Para ella, una experiencia inolvidable!*
+*Para ella, ¡una experiencia inolvidable!*
 
 ## Bautismo de escalada
 
-Los bautizos tienen la magia de descubrir una nueva actividad por primera vez!
+Los bautizos tienen la magia de descubrir ¡una nueva actividad!
 
 Me encanta acompañar en "la primera vez", ayudar a guardar los mejores recuerdos, tanto en la memoria como con fotos.
-Trae el material básico (gatos y arnés) y yo te llevo a dar tus primeros pasos en roca natural. Si has practicado días o meses en rocódromo o si no has escalado nunca, disfrutarás superando los nuevos retos de buscar los agarres de manos y apoyos de pies. Yo me encargo de las cuerdas, la seguridad y estar a tu lado cuando te entren dudas.
+Trae el material básico (gatos y arnés) y yo te llevo a dar tus primeros pasos en roca natural. Si has practicado días o meses en rocódromo o si no has escalado nunca, disfrutarás superando los nuevos retos de buscar los agarres de manos y apoyos de pies. Yo me encargo de las cuerdas, la seguridad y animarte a llegar arriba.
 
-¿Preparado para tu primera vez?
+¿Preparad@s para probar?
 
 * * *
 
 ### Detalles de la actividad:<br>
-👥 Tamaño del grupo: 2-4 amigos o familiares, ¿porqué no? 😉
+👥 Tamaño del grupo: 2-4 amigos, familiares o compañeros de trabajo, ¿por qué no? 😉
 
 ⏳ Duración aproximada: 3-4h, una mañana o una tarde
 

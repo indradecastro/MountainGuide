@@ -11,7 +11,7 @@ layout: actividad
 *   ¿Tienes a alguien a quien sorprender?
 *   ¿Llevas años en la isla y se te han acabado las excursiones nuevas?
 
-Habla con tus amigos, nos vamos de excursión!
+Habla con tus amigos, ¡nos vamos de excursión!
 
 * * *
 

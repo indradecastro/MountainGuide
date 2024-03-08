@@ -8,16 +8,16 @@ layout: actividad
 ## Cresta
 
 ¡La aventura con mayúsculas!
-Te ofrezco desde crestas sencillas en las que solo encontrarás algunas trepadas hasta itinerarios más verticales y con mucha sensación de vacío!
+Te ofrezco desde crestas sencillas con algunas trepadas hasta itinerarios más verticales y ¡mucha sensación de vacío!
 
 Las crestas son la actividad más exclusiva que se puede hacer en montaña: 1 cliente y 1 guía unidos por la cuerda.
 
-Sin duda, ¡un lujo al alcance de unos pocos!
+Sin duda, ¡una actividad única!
 
 * * *
 
 ### Detalles de la actividad:<br>
-👥 Tamaño del grupo: Exclusivamente para una persona!
+👥 Tamaño del grupo: ¡Exclusivamente para una persona!
 
 ⏳ Duración aproximada: 5-7h, bastante variable
 

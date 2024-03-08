@@ -7,9 +7,9 @@ layout: actividad
 
 ## Escalada selecta
 
-Para aquellos escaladores que buscan un guía local que les lleve a los mejores sectores, las vías más interesantes, las orientaciones apropiadas en cada estación del año o elegir un proyecto que se adapte a tus habilidades o sueños!
+Para aquellos escaladores que buscan un guía local que les lleve a los mejores sectores, las vías más interesantes, las orientaciones apropiadas en cada estación del año o ¡elegir un proyecto que se adapte a tus habilidades o sueños!
 
-Prepara tus gatos preferidos, nos vamos al sector!
+Prepara tus gatos preferidos, ¡nos vamos al sector!
 
 * * *
 
@@ -23,4 +23,4 @@ Prepara tus gatos preferidos, nos vamos al sector!
 *	🅿️ Enviaré la ubicación del parking donde nos encontraremos
 
 ### Ejemplos:<br>
-Alarò, Caimari, Sa Gubia, es Capdellà, Port de Sòller, innumerables escuelas!
+Alarò, Caimari, Sa Gubia, es Capdellà, Port de Sòller, ¡innumerables escuelas!
