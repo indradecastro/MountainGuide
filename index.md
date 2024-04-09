@@ -11,11 +11,13 @@ layout: default
 With over 20 years of experience in hiking and 15 in rock-climbing, every day I enjoy more and more guiding others into the mountains!
 
 📜 Certified Climbing Guide <br>
-🪪 Member of AEGM (Spanish Guides Union) <br>
+🪪 AEGM (Mountain Guides Union) <br>
 🦋 Passionate Biologist <br>
 <br>
-💬 Activities in 🇪🇸 Spanish, 🇬🇧 English, Mallorcan <br>
-💬 Conversations in 🇫🇷 French, 🇬🇷 Greek, Basque
+💬 Activities in<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇪🇸 Spanish, 🇬🇧 English, Mallorcan <br>
+💬 Conversations in<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇫🇷 French, 🇬🇷 Greek, Basque
 
 * * *
 
