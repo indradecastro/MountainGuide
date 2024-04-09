@@ -2,46 +2,47 @@
 layout: default
 ---
 
-### Elige tu actividad :mountain: <br> piensa una fecha :date: <br> y [escríbeme!](https://wa.me/+34686569323?text=Hola,%20me%20interesa%20hacer%20una%20actividad%20de%20montaña%20contigo.%0A%0A¿Estás%20disponible%20el%20día...) <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="20" height="20">
+### Choose your activity :mountain: <br> pick a date :date: <br> and [contact me!](https://wa.me/+34686569323?text=Hi,%20I'm%20interested%20in%20doing%20a%20mountain%20activity%20with%20you.%0A%0AAre%20you%20available%20on%20the%20day...) <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="20" height="20">
 
 📞 [+34 686569323](tel:+34 686569323)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="20" height="20"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="20" height="20"> [@indradecastroarrazola](https://www.instagram.com/indradecastroarrazola/)<br>
 
-Con más de 20 años de experiencia en senderismo y 15 en escalada, cada día disfruto más de acompañar a otros a la montaña!
+With over 20 years of experience in hiking and 15 in climbing, I enjoy accompanying others to the mountains more and more every day!
 
-📜 Titulado como Guía de Escalada <br>
-🪪 Miembro de la AEGM y FBME <br>
-🦋 Biólogo apasionado <br>
+📜 Certified Climbing Guide <br>
+🪪 Member of AEGM and FBME <br>
+🦋 Passionate Biologist <br>
 <br>
-💬 Actividades en 🇪🇸 Castellano, 🇬🇧 English, Mallorquí <br>
-💬 Conversaciones en 🇫🇷 Français, 🇬🇷 Ελληνικά, Euskera
+💬 Activities in 🇪🇸 Spanish, 🇬🇧 English, Mallorcan <br>
+💬 Conversations in 🇫🇷 French, 🇬🇷 Greek, Basque
 
 * * *
 
-## Escalada
-*    [🥇 Bautismo de escalada](./actividades/bautismo.md)
-*    [🧗🏻‍♀️ Escalada selecta](./actividades/deportiva-selecta.md)
-*    [🔩 Vía larga equipada](./actividades/vía-larga-equipada.md)
-*    [💎 Vía clásica](./actividades/vía-clásica.md)
-*    [⛰️ Cresta](./actividades/cresta.md)
+## Climbing
+*    [🥇 Climbing baptism](./activities/climbing-baptism.md)
+*    [🧗🏻‍♀️ Select climbing](./activities/selective-sport-climbing.md)
+*    [🔩 Long equipped route](./activities/long-equipped-route.md)
+*    [💎 Classic route](./activities/classic-route.md)
+*    [⛰️ Ridge](./activities/ridge.md)
 
 * * *
 
-## Senderismo
-*    [👟 Senderismo sencillo](./actividades/senderismo-sencillo.md)
-*    [🥾 Senderismo técnico](./actividades/senderismo-técnico.md)
-*    [🏃🏽‍♂️ Trail running](./actividades/trail.md)
+## Hiking
+*    [👟 Easy hiking](./activities/easy-hiking.md)
+*    [🥾 Technical hiking](./activities/technical-hiking.md)
+*    [🏃🏽‍♂️ Trail running](./activities/trail-running.md)
 
 * * *
 
-## Formación
-Me adapto a tus necesidades, escríbeme por WhatsApp y diseñamos junt@s tu curso ideal!
-*    Iniciación a la escalada
-*    Via larga equipada
-*    Escalada clásica
-*    Autorescate
+## Training
+I adapt to your needs, write to me on WhatsApp and together we'll design your ideal course!
+*    Introduction to climbing
+*    Long equipped route
+*    Classic climbing
+*    Self-rescue
 
 * * *
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="30" height="30"> [Escríbeme!](https://wa.me/+34686569323?text=Hola,%20me%20interesa%20hacer%20una%20actividad%20de%20montaña%20contigo.%0A%0A¿Estás%20disponible%20el%20día...)
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="30" height="30"> [Contact me!](https://wa.me/+34686569323?text=Hi,%20I'm%20interested%20in%20doing%20a%20mountain%20activity%20with%20you.%0A%0AAre%20you%20available%20on%20the%20day...)
+
