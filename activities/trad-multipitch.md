@@ -24,5 +24,5 @@ Will you join me?
 *	🅿️ I'll send you the location of the parking where we'll meet
 
 ### Examples:<br>
-Albahida, Esperó des Plà, Agulla des Frare, Pepe Ramón, Rectal
+Albahida, Esperó des Plà, Agulla des Frare, Pepe Ramón
 

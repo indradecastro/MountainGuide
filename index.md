@@ -11,8 +11,12 @@ layout: default
 With over 20 years of experience in hiking and 15 in rock-climbing, every day I enjoy more and more guiding others into the mountains!
 
 📜 Certified Climbing Guide <br>
-🪪 AEGM (Mountain Guides Union) <br>
-🦋 Passionate Biologist <br>
+🪪 Mountain Guides Union (Nº 2041)<br>
+🦋 Passionate biologist <br>
+<br>
+🏥 Acc. Ins: OM-MIC (ESDV2100035)<br>
+⚖️ CL Ins: Berkley (PIJ150CKI534)<br>
+🏷 Active Tourism (soon)<br>
 <br>
 💬 Activities in<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇪🇸 Spanish, 🇬🇧 English, Mallorcan <br>
