@@ -1,14 +1,13 @@
 title: Indra, your guide!
 logo: /assets/img/feo-circle-aegm.jpg
 description: |
-  📜 Certified Climbing Guide
-  🪪 Mountain Guides Union (Nº 2041)
-  🦋 Passionate biologist
-
-  🏥 Acc. Ins: OM-MIC (ESDV2100035)
-  ⚖️ CL Ins: Berkley (PIJ150CKI534)
-  🏷 Active Tourism (soon)
-
+  📜 Certified Climbing Guide <br>
+  🪪 Mountain Guides Union (Nº 2041) <br>
+  🦋 Passionate biologist <br>
+  <br>
+  🏥 Acc. Ins: OM-MIC (ESDV2100035) <br>
+  ⚖️ CL Ins: Berkley (PIJ150CKI534) <br>
+  🏷 Active Tourism (soon) <br>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
