@@ -7,7 +7,6 @@ layout: default
 📞 [+34 686569323](tel:+34 686569323)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="20" height="20"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="20" height="20"> [@indradecastroarrazola](https://www.instagram.com/indradecastroarrazola/)<br>
-
 <br>
 💬 Activities in<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇪🇸 Spanish, 🇬🇧 English, Mallorcan <br>
