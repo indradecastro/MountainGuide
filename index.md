@@ -8,15 +8,6 @@ layout: default
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="20" height="20"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="20" height="20"> [@indradecastroarrazola](https://www.instagram.com/indradecastroarrazola/)<br>
 
-Over 20 years of experience in hiking and 15 in rock-climbing, I enjoy guiding others in the mountains more and more every day!
-
-📜 Qualified Rock-Climbing Guide <br>
-🪪 AEGM Guide (Nº 2041)<br>
-🦋 Passionate Biologist <br>
-<br>
-🏥 Acc. Ins: OM-MIC (ESDV2100035)<br>
-⚖️ Liab. Ins: Berkley (PIJ150CKI534)<br>
-🏷 Active Tourism (TA/122)<br>
 <br>
 💬 Activities in<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇪🇸 Spanish, 🇬🇧 English, Mallorcan <br>
